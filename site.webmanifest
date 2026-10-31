@@ -1,0 +1,12 @@
+{
+  "name": "Øvre Grefsen Vel",
+  "short_name": "ØGV",
+  "lang": "nb",
+  "icons": [
+    { "src": "images/ogvel-mark-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "images/ogvel-mark-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#0a2b4e",
+  "background_color": "#f7f3ec",
+  "display": "browser"
+}
